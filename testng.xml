@@ -1,0 +1,10 @@
+
+<suite name="UI Suite" verbose="1" parallel="tests" thread-count="2">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="headless" value="false"/>
+  <test name="Login Tests">
+    <classes>
+      <class name="com.example.tests.LoginTest"/>
+    </classes>
+  </test>
+</suite>

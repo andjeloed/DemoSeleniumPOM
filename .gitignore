@@ -1,0 +1,18 @@
+# Maven
+/target/
+pom.xml.versionsBackup
+*.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
